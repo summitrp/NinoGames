@@ -25,7 +25,9 @@ NinoGames is a free, open-source PC game downloader built with Electron. It lets
 
 ## Screenshots
 
-> *(Add screenshots of the home view, library, and settings here)*
+> <img width="1280" height="820" alt="{24B5D8A7-6F1B-46DD-ACDA-48EEED19CD23}" src="https://github.com/user-attachments/assets/167fe9ea-aff9-439a-a493-20d0da8a686c" />
+> <img width="1280" height="820" alt="{F53339D2-4D42-49D9-99AD-997C1FD17886}" src="https://github.com/user-attachments/assets/434327ed-0bb9-4560-8f7a-31ea4ecf23c2" />
+
 
 ---
 
