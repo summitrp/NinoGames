@@ -127,6 +127,14 @@ This project is provided for personal, non-commercial use. Game content is sourc
 
 ---
 
+## Installing NinoGames
+
+Use the provided installer to install NinoGames on your Windows PC:
+
+https://github.com/summitrp/NinoGames/releases/download/latest-install/NinoGamesInstaller_latest_x64_Release.exe
+
+---
+
 ## Author
 
 Made with ❤️ by **nino**
