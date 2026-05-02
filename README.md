@@ -3,7 +3,7 @@
   NinoGames
 </h1>
 
-> **Your personal gaming hub — discover, download, play.**
+> **A unified desktop client for browsing, downloading, and managing PC games.**
 
 <br/>
 
