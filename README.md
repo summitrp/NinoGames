@@ -85,6 +85,11 @@ NinoGames/
 ├── preload.js           # Context bridge exposing APIs to the renderer
 ├── store.js             # Persistent storage (library, wishlist, settings)
 ├── package.json
+├── resources/           # External binaries for downloading, extracting, and related tasks
+│   ├── 7za/
+│   │   └── 7za.exe
+│   └── aria2/
+│       └── aria2c.exe
 └── renderer/
     ├── index.html       # App shell and UI markup
     ├── renderer.js      # Renderer process — UI logic and state
