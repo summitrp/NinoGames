@@ -129,7 +129,7 @@ Run `Uninstall NinoGames.bat` (or `Uninstall NinoGames.ps1`) included in the app
 
 ## License
 
-This project is provided for personal, non-commercial use. Game content is sourced from third-party sites — do not resell these games as they are contain pirated software. Use for personal use only.
+This software is provided for educational and personal use only. It may facilitate access to content sourced from third-party providers. Users are solely responsible for ensuring they comply with all applicable laws and respect the rights of content owners. Do not use this software for unauthorized distribution or commercial purposes.
 
 
 ---
