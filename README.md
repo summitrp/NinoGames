@@ -1,12 +1,15 @@
-<img width="256" height="256" alt="dUhKUduPN1K9" src="https://github.com/user-attachments/assets/d6672534-0c4e-4f3c-b6c6-1dedadd98d88" />
-# NinoGames
+<h1>
+  <img src="https://github.com/user-attachments/assets/d6672534-0c4e-4f3c-b6c6-1dedadd98d88" width="40" align="left" style="margin-right:10px;" />
+  NinoGames
+</h1>
 
 > **Your personal gaming hub — discover, download, play.**
+
+<br/>
 
 NinoGames is a free, open-source PC game downloader built with Electron. It lets you search, download, and manage free PC games from multiple sources — all from a clean, dark-themed desktop app.
 
 ---
-
 ## Features
 
 - 🔍 **Game Search** — Search across SteamUnlocked and AnkerGames from a single interface
