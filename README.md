@@ -141,7 +141,7 @@ This software is provided for educational and personal use only. It may facilita
 
 Use the provided installer to install NinoGames on your Windows PC:
 
-https://github.com/summitrp/NinoGames/releases/download/latest-install/NinoGamesInstaller_latest_x64_Release.exe
+https://github.com/summitrp/NinoGames/releases/download/latest-install/NinoGames-release-x64.exe
 
 ---
 
